@@ -1,2 +1,3 @@
-# fluxaro-website
+# fluxaro.cz
 
+Firemní webová prezentace
